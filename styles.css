@@ -1,0 +1,23 @@
+.gradient-background {
+
+    background: linear-gradient(300deg, #D97409, #BCE617, #7917E8);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    border: 0;
+    margin-bottom: 0;
+}
+
+.Developerpicture {
+    border-radius: 20%;
+}
+
+.skills-paragraph {
+    font-family: inherit;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    letter-spacing: 0.01em;
+}
+
+.profile {
+    border-radius: 50%;
+}
