@@ -1,5 +1,8 @@
 # Capstone-Project-2
 
+![Capstoneproject2](./Capstoneproject2.png)
+
+
 A responsive and modern personal portfolio website showcasing my work, skills, and background as a junior web developer. 
 Built with HTML, Bootstrap 5, and custom CSS, this project serves as my public-facing developer profile and a foundation I can expand as I grow in the field.
 
